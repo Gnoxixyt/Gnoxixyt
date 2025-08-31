@@ -11,6 +11,8 @@
 
 - 👯 I’m looking to collaborate on **LED Blinker bare metalembedded project that blinks an LED on a microcontroller without using any external libraries or frameworks**
 
+- 📫 How to reach me **bonololshaku@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
